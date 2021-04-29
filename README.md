@@ -1,4 +1,4 @@
-# Simple-listener
+# simple-listener
 A simple PowerShell reverse shell listener
 
 # Usage
