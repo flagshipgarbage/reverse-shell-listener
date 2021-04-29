@@ -1,5 +1,5 @@
 # reverse-shell-listener
-A simple PowerShell reverse shell listener
+A simple reverse shell listener in PowerShell
 
 # Usage
 ```PowerShell
