@@ -7,6 +7,6 @@ A simple PowerShell reverse shell listener
 .\reverse-shell-listener.ps1 -i 192.168.1.1  -p 443
 .\reverse-shell-listener.ps1 -IPAddress 192.168.1.1 -Port 443
 
--i: Listening IP<br>
--p: Listening Port 
+-IPAdress / i: Listening IP
+-Port / p: Listening Port 
 ```
