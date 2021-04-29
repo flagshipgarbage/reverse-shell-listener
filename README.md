@@ -1,5 +1,5 @@
 # reverse-shell-listener
-A simple Powershell reverse shell listener
+A simple PowerShell reverse shell listener
 
 # Usage
 -i: Listening IP<br>
